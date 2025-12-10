@@ -1,0 +1,5 @@
+{
+  "name": "Wialon SMS Bridge Control",
+  "description": "Dashboard to monitor and test the Wialon SMS Microservice integration.",
+  "requestFramePermissions": []
+}
